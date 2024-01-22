@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="min_temp">Min : 00:00°C</string>
+    <string name="max_temp">Max : 00:00°C</string>
+</resources>
